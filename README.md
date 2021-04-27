@@ -1,1 +1,1 @@
-# manthangame
+# MyGame
